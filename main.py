@@ -5,4 +5,10 @@ if user_marks >= 10:
 else:
   print(f'User is fail')
 
+
+
+
+
   
+
+
